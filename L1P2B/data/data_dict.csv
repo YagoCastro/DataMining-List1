@@ -1,0 +1,8 @@
+variavel,descricao-pt,descricao-en,tipo,subtipo,faixa-variação
+Age,Idade do segurado,Age of the insured,quantitative,discreet,18-64
+Sex,Gênero (masculino ou feminino),Gender (male or female),quanlitative,nominal,"'female', 'male'"
+BMI,Medida de gordura corporal baseada na altura e no peso,Body fat measurement based on height and weight,quantitative,continua,15.96-53.13
+Children,O número de dependentes cobertos,The number of covered dependents,quanlitative,discreet,0-5
+Smoker,Se o segurado é fumante (sim ou não),Whether the insured is a smoker (yes or no),quanlitative,nominal,"'yes', 'no'"
+Region,Área geográfica de cobertura,Geographic area of coverage,quanlitative,nominal,"'southwest', 'southeast', 'northwest', 'northeast'"
+Charges,Os custos do seguro médico incorridos pelo segurado.,The medical insurance costs incurred by the insured,quantitative,continua,1121.8739-63770.42801
